@@ -122,6 +122,12 @@
 
 <p>Compared to Julius AI's conversational approach, Narrative BI's automated storytelling specifically enhances strategic communication across teams.</p>
 
+<img src="https://i.ytimg.com/vi/RxIDB19YWw4/maxresdefault.jpg"
+  alt="comparative with julius"
+  width="750"
+  height="400"
+/>
+
 <h3>Genius Sheets: effortless analytics without coding skills</h3>
 
 <p>Where Genius Sheets shines is its speed and simplicity in generating insightful reports without requiring SQL or programming knowledge. The platform leverages AI capabilities to create analytics reports in seconds through simple prompts:</p>
@@ -133,6 +139,12 @@
 </ul>
 
 <p>For finance-oriented teams preferring speed and ease-of-use over conversational interactivity, Genius Sheets provides significant value.</p>
+
+<img src="https://i.ytimg.com/vi/cTu-ZSvwlgM/maxresdefault.jpg"
+  alt="comparative with julius"
+  width="750"
+  height="400"
+/>
 
 <a target="_blank" href="https://julius.ai?via=new">Click here to have free access !</a>
 
@@ -147,6 +159,12 @@
 
 <p>Its advanced visualization strength makes AnswerFlow AI ideal for teams seeking in-depth exploration and interactive insight probing.</p>
 
+<img src="https://subscribed.fyi/wp-content/uploads/2024/01/AnswerFlow-AI_-Lifetime-ChatGPT-Bots-Your-Cost-Effective-Solution.png"
+  alt="comparative with julius"
+  width="750"
+  height="400"
+/>
+
 <h3>Alteryx: versatile data analysis and automation solution</h3>
 
 <p>Alteryx blends versatility, automation, and user-friendliness into a single unified data analytics environment. Recognized widely by analysts, it offers:</p>
@@ -157,5 +175,11 @@
 </ul>
 
 <p>Alteryx is especially beneficial for enterprises needing flexibility in data processes and automated workflows within a single platform, bridging advanced analytics with operational simplicity.</p>
+
+<img src="https://media.licdn.com/dms/image/v2/D4D12AQFIgO5fHDRJ-g/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1721174301922?e=2147483647&v=beta&t=sEiI0VufvfMTeADgCeQQliOBoSEWQYosHA-CmU3wvxA"
+  alt="comparative with julius"
+  width="750"
+  height="400"
+/>
 
 <a target="_blank" href="https://julius.ai?via=new">Click here to have free access !</a>

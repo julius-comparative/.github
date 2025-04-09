@@ -103,6 +103,12 @@
 
 <p>If seamless, language-driven analytics matter most, Powerdrill offers a compelling alternative to Julius AI.</p>
 
+<img src="https://i.ytimg.com/vi/SKkS13T1tqQ/maxresdefault.jpg"
+  alt="comparative with julius"
+  width="750"
+  height="400"
+/>
+
 <a target="_blank" href="https://julius.ai?via=new">Click here to have free access !</a>
 
 <h3>Narrative BI: automated data storytelling for growth teams</h3>

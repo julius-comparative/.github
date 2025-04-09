@@ -15,6 +15,12 @@
 <h3>Conversational AI interfaces for seamless interactions</h3>
 <p>Traditional data analysis tools often require advanced technical skills, acting as barriers to seamless interactions. Julius AI addresses this limitation through its conversational AI interface. Users can simply ask questions or submit analytical queries using plain, everyday language. In fact, internal tests showed that teams using conversational AI spent approximately 40% less time obtaining actionable answers compared to standard data querying methods. Simply put, conversational interfaces promote agility and efficiency within organizations.</p>
 
+<img src="href="https://julius.ai?via=new">Click here to have free access !</a>"
+  alt="comparative with julius"
+  width="750"
+  height="400"
+/>
+
 <a target="_blank" href="https://julius.ai?via=new">Click here to have free access !</a>
 
 <h3>Advanced data visualization and reporting</h3>
